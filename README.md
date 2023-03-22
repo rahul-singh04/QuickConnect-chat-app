@@ -12,4 +12,4 @@ The front-end of the application was built using React and styled using CSS. Fir
 
 Outcome:
 
-A fully functional chat application that allowed users to chat in real-time. The application was responsive and user-friendly. The application was deployed on a hosting service such as Firebase Hosting or Heroku. The code was well-organized, documented, and adhered to best practices for React and Firebase development.
+A fully functional chat application that allowed users to chat in real-time. The application was responsive and user-friendly. The application was deployed on a hosting service such as Firebase Hosting or Heroku. The code was well-organized, documented, and adhered to best practices for React and Firebase development .
