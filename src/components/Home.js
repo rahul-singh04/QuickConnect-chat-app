@@ -1,5 +1,5 @@
 import React from 'react'
-import homepageImg from '/Users/thewithcer/learningReact/chat-app/chat-app/src/images/homepageimg.jpg'
+import homepageImg from '../images/homepageimg.jpg'
 
 export const Home = () => {
     return (
